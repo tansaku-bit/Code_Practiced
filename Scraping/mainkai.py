@@ -14,8 +14,8 @@ baseurl = "https://www.pixiv.net/artworks/"
 #    text = f.read()
 #    start_id, end_id = map(int, text.strip()[1:-1].split(', '))
 start_id = 1
-end_id = 10000
-delay = 0.5
+end_id = 1000
+delay = 1.5
 ids = []
 
 
